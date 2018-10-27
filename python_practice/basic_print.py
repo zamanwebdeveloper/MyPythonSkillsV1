@@ -1,0 +1,8 @@
+print('Hello!')
+print('it\'s')
+print('Once again Hello')
+print('it\'s')
+print('again')
+print(5)
+print(5.2)
+print('it\'s')
